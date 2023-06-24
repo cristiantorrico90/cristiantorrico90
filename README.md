@@ -37,21 +37,19 @@ My name is Cristian, I'm from Argentina and I'm Systems analyst.
     width ="40" heigth="40"/>&nbsp;
     <img src = "https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain.svg" title="Java" alt="Java" 
     width ="40" heigth="40"/>&nbsp;
-    <img src = "https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/canva/canva-original.svg" title="Java" alt="Java" 
+<img src = "https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/canva/canva-original.svg" title="Java" alt="Java" 
     width ="40" heigth="40"/>&nbsp;
-    <img src = "https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/windows8/windows8-original.svg" title="Java" alt="Java" 
+<img src = "https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/windows8/windows8-original.svg" title="Java" alt="Java" 
     width ="40" heigth="40"/>&nbsp;
-    <img src = "https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/slack/slack-original.svg" title="Java" alt="Java" 
+<img src = "https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/slack/slack-original.svg" title="Java" alt="Java" 
     width ="40" heigth="40"/>&nbsp;
-    <img src = "https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-plain.svg" title="Java" alt="Java" 
+<img src = "https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-plain.svg" title="Java" alt="Java" 
     width ="40" heigth="40"/>&nbsp;
-    <img src = "https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" title="Java" alt="Java" 
+<img src = "https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" title="Java" alt="Java" 
     width ="40" heigth="40"/>&nbsp;
-    <img src = "https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/android/android-plain.svg" title="Java" alt="Java" 
+<img src = "https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/android/android-plain.svg" title="Java" alt="Java" 
     width ="40" heigth="40"/>&nbsp;
-    <img src = "https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/apple/apple-original.svg" title="Java" alt="Java" 
-    width ="40" heigth="40"/>&nbsp;
-    <img src = "https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-plain.svg" title="Java" alt="Java" 
+<img src = "https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-plain.svg" title="Java" alt="Java" 
     width ="40" heigth="40"/>&nbsp;
   </div>
    
