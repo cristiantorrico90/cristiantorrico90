@@ -2,7 +2,7 @@
 # Hello 🤟
 My name is Cristian, I'm from Argentina and I'm Systems analyst.
 
-💥 This is my GitHub profile [@cristiantorrico90](https://github.com/cristiantorrico90) I am currently specializing in interface design and big data..
+💥 This is my GitHub profile [@cristiantorrico90](https://github.com/cristiantorrico90) and my profile on FlipSnack (https://www.flipsnack.com/BBED97BBDC9/c-v-cristian-torrico-2023-uxui-1.html)I am currently specializing in interface design and big data.
 💥 I have a [Linkedin profile](https://www.linkedin.com/in/cristian-torrico/) (in Spanish) about all my technologies
 
 # Skills
