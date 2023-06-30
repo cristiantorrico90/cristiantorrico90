@@ -56,5 +56,5 @@ My name is Cristian, I'm from Argentina and I'm Systems analyst.
 </div>
 
 ---
-//[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cristiantorrico90%40&theme=dark&locale=es)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cristiantorrico90%40&theme=dark&locale=es)](https://git.io/streak-stats)
 
